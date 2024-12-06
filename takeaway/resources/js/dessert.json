@@ -1,0 +1,20 @@
+[
+  {
+    "number": "C14",
+    "title": "Banana Frita",
+    "price": "4.80\u20ac",
+    "image": "resources/img/kitchen/c14.png"
+  },
+  {
+    "number": "C15",
+    "title": "Bolas de S\u00e9samo c/ Doce de Feij\u00e3o",
+    "price": "7.50\u20ac",
+    "image": "resources/img/kitchen/c15.png"
+  },
+  {
+    "number": "C16",
+    "title": "Tartes de Ab\u00f3bora",
+    "price": "3.90\u20ac",
+    "image": "resources/img/kitchen/c16.png"
+  }
+]
