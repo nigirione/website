@@ -92,19 +92,18 @@ body {
 .menu_special-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust as needed */
-  grid-gap: 30px; /* 2 items */
-  padding: 5px;
-}
-
-.dishes_special-item img{
-  align-self: center;
-  width: 110px;
-  height: 100px;
+  grid-gap: 200px; /* 2 items */
+  padding-left: 300px;
 }
 
 .dishes_special-item{
   text-align: center;
+}
 
+.dishes_special-item img{
+  text-align: center;
+  width: 200px;
+  height: 180px;
 }
 
 .dishes-item{
@@ -154,6 +153,12 @@ footer p{
   color: #fff;
 }
 
+.dishes-item img{
+  align-self: center;
+  width: 110px;
+  height: 90px;
+}
+
 @media screen and (max-width: 768px) {
   
   .header{
@@ -182,6 +187,12 @@ footer p{
   .dishes_special-item{
     text-align: center;
     padding: 5px;
+  }
+
+  .dishes_special-item img{
+    text-align: center;
+    width: 150px;
+    height: 120px;
   }
 
   .strong {
