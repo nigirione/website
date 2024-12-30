@@ -1,9 +1,10 @@
 import json
+import os
 
 #PRICES
 
-BOX203 = "27.50€"
-BOX205 = "29.50€"
+BOX203 = "28.50€"
+BOX205 = "30.50€"
 
 
 
@@ -15,7 +16,17 @@ menu_items = [
 
 ]
 
-file_path = "resources/js/specialBig.json"
+
+
+# Define directory and file paths
+directory = "../js"
+file_path = os.path.join(directory, "specialBig.json")
+
+# Create directory if it doesn't exist
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+
 
 # Write menu items to JSON file
 with open(file_path, 'w') as f:

@@ -1,8 +1,9 @@
 import json
+import os
 
 #PRICES
 
-NORMALBOX = "7.50€"
+NORMALBOX = "8.00€"
 
 
 
@@ -41,10 +42,20 @@ menu_items = [
     {"number": "A30" ,"title": "Califórnia Frango Panado", "price": NORMALBOX, "image": "resources/img/sushi/a30.png"},
     {"number": "A31" ,"title": "Califórnia Maki Frito", "price": NORMALBOX, "image": "resources/img/sushi/a31.png"},
     {"number": "A32" ,"title": "Temaki", "price": NORMALBOX, "image": "resources/img/sushi/a32.png"},
-    {"number": "A33" ,"title": "Queijo Creme", "price": NORMALBOX, "image": "resources/img/sushi/a33.png"}
+    {"number": "A33" ,"title": "Queijo Creme", "price": NORMALBOX, "image": "resources/img/sushi/a33.png"},
+    {"number": "A33" ,"title": "Temaki Frito c/ Molho", "price": NORMALBOX, "image": "resources/img/sushi/temakis_frito.jpg"}
 ]
 
-file_path = "resources/js/sushi.json"
+
+# Define directory and file paths
+directory = "../js"
+file_path = os.path.join(directory, "sushi.json")
+
+# Create directory if it doesn't exist
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+
 
 # Write menu items to JSON file
 with open(file_path, 'w') as f:

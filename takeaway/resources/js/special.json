@@ -2,109 +2,139 @@
   {
     "number": "Dragao",
     "title": "Drag\u00e3o",
-    "price": "8.00\u20ac",
-    "image": "resources/img/special/dragao.png"
+    "price": "8.50\u20ac",
+    "image": "resources/img/special/B5.png"
   },
   {
     "number": "A40",
     "title": "Donburi de Salm\u00e3o Defumado com Molho",
-    "price": "8.00\u20ac",
+    "price": "8.50\u20ac",
     "image": "resources/img/special/A40.png"
   },
   {
     "number": "A41",
     "title": "Donburi de Gambas Panadas com Molho",
-    "price": "8.00\u20ac",
+    "price": "8.50\u20ac",
     "image": "resources/img/special/A41.png"
   },
   {
     "number": "A42",
     "title": "Donburi de Frango Panado com Molho",
-    "price": "8.00\u20ac",
+    "price": "8.50\u20ac",
     "image": "resources/img/special/a42.png"
   },
   {
     "number": "N71",
     "title": "Sushi Misto de Gambas Panadas e Salm\u00e3o",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n71.png"
   },
   {
     "number": "N72",
     "title": "Sushi Misto de Gambas Panadas e Salm\u00e3o",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n72.png"
   },
   {
     "number": "N73",
     "title": "Sushi Misto de Gambas Panadas e Salm\u00e3o",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n73.png"
   },
   {
     "number": "N74",
     "title": "Queijo Creme com Salm\u00e3o e Salm\u00e3o Defumado",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n74.png"
   },
   {
     "number": "N75",
     "title": "Sushi Misto de Salm\u00e3o, Queijo Creme e Frutas",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n75.png"
   },
   {
     "number": "N76",
     "title": "Sushi Misto de Del\u00edcias com Abacate e Morango",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n76.png"
   },
   {
     "number": "N77",
     "title": "Sushi de Morangos, Rabanete Japon\u00eas (vegetariano)",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n77.png"
   },
   {
     "number": "N78",
     "title": "Sushi de Gambas Panadas e Temaki Salm\u00e3o",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n78.png"
   },
   {
     "number": "N79",
     "title": "Sushi Misto de Salm\u00e3o e Gambas Panadas com Molho",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n79.png"
   },
   {
     "number": "N80",
     "title": "Sushi de Rabanete Japon\u00eas, Gambas Panadas com Molho",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n80.png"
   },
   {
     "number": "N81",
     "title": "Sushi de Rabanete Japon\u00eas e Del\u00edcias do Mar",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n81.png"
   },
   {
     "number": "N82",
     "title": "Sushi de Queijo Creme e Frutas",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n82.png"
   },
   {
     "number": "N83",
     "title": "Sashimi de Salm\u00e3o e Maki de Salm\u00e3o",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n83.png"
   },
   {
     "number": "N84",
     "title": "Sashimi de Salm\u00e3o e Calif\u00f3rnia com Ovas",
-    "price": "8.50\u20ac",
+    "price": "8.80\u20ac",
     "image": "resources/img/special/n84.png"
+  },
+  {
+    "number": "N85",
+    "title": "Drag\u00e3o + Calif\u00f3rnia Frito",
+    "price": "8.80\u20ac",
+    "image": "resources/img/special/N85.jpg"
+  },
+  {
+    "number": "N86",
+    "title": "Gunkan c/Ovas + Sushi Misto Salm\u00e3o",
+    "price": "8.80\u20ac",
+    "image": "resources/img/special/N86.jpg"
+  },
+  {
+    "number": "N87",
+    "title": "Maki Frito Picante + Sushi de Gambas Panadas",
+    "price": "8.80\u20ac",
+    "image": "resources/img/special/N87.jpg"
+  },
+  {
+    "number": "N88",
+    "title": "Calif\u00f3rnia Frito c/Molho de Frutas + Calif\u00f3rnia de Salm\u00e3o Defumado",
+    "price": "8.80\u20ac",
+    "image": "resources/img/special/N88.jpg"
+  },
+  {
+    "number": "N89",
+    "title": "Sushi de Morangos + Del\u00edcias c/Frutas",
+    "price": "8.80\u20ac",
+    "image": "resources/img/special/N89.jpg"
   }
 ]

@@ -2,62 +2,62 @@
   {
     "number": "C0",
     "title": "Ravilios",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c0.png"
   },
   {
     "number": "C1",
     "title": "Gambas Panadas",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c1.png"
   },
   {
     "number": "C2",
     "title": "Crepes",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c2.png"
   },
   {
     "number": "C4",
-    "title": "Frango Grrelhado c/ Molho",
-    "price": "7.50\u20ac",
+    "title": "Frango Grelhado c/ Molho",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c4.png"
   },
   {
     "number": "C5",
     "title": "Tempura de Gambas",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c5.png"
   },
   {
     "number": "C6",
     "title": "Espetada de Frango",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c6.png"
   },
   {
     "number": "C7",
     "title": "Espetada de Cogumelos Brancos",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c7.png"
   },
   {
     "number": "C17",
     "title": "Espetada de Cogumelos Pretos",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c17.png"
   },
   {
     "number": "C18",
     "title": "Asas de Frango Frito",
-    "price": "7.50\u20ac",
+    "price": "8.00\u20ac",
     "image": "resources/img/kitchen/c18.png"
   },
   {
     "number": "C19",
     "title": "Lula Frita",
-    "price": "7.50\u20ac",
-    "image": "resources/img/kitchen/c19.png"
+    "price": "8.00\u20ac",
+    "image": "resources/img/kitchen/F6.jpg"
   },
   {
     "number": "C20",
@@ -68,31 +68,31 @@
   {
     "number": "C8",
     "title": "Sopa Miso",
-    "price": "2.00\u20ac",
-    "image": "resources/img/kitchen/c8.png"
+    "price": "2.50\u20ac",
+    "image": "resources/img/kitchen/621.png"
   },
   {
     "number": "C10",
     "title": "Salada",
-    "price": "1.50\u20ac",
-    "image": "resources/img/kitchen/c10.png"
+    "price": "2.00\u20ac",
+    "image": "resources/img/kitchen/V5.jpg"
   },
   {
     "number": "C11",
     "title": "Salada de Frango Frito",
-    "price": "2.90\u20ac",
-    "image": "resources/img/kitchen/c11.png"
+    "price": "3.00\u20ac",
+    "image": "resources/img/kitchen/V6.jpg"
   },
   {
     "number": "C12",
     "title": "Salada de Gambas Panadas",
-    "price": "2.90\u20ac",
-    "image": "resources/img/kitchen/c12.png"
+    "price": "3.00\u20ac",
+    "image": "resources/img/kitchen/V7.jpg"
   },
   {
     "number": "C13",
-    "title": "Salada",
-    "price": "2.90\u20ac",
-    "image": "resources/img/kitchen/c13.png"
+    "title": "Salada de Salm\u00e3o Defumado",
+    "price": "3.00\u20ac",
+    "image": "resources/img/kitchen/V5.jpg"
   }
 ]

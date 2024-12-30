@@ -1,16 +1,17 @@
 import json
+import os
 
 #PRICES
 
-SPECIALBOX = "8.00€"
-VIPBOX = "8.50€"
+SPECIALBOX = "8.50€"
+VIPBOX = "8.80€"
 
 
 
 # Define menu items
 
 menu_items = [
-    {"number": "Dragao","title": "Dragão", "price": SPECIALBOX, "image": "resources/img/special/dragao.png"},
+    {"number": "Dragao","title": "Dragão", "price": SPECIALBOX, "image": "resources/img/special/B5.png"},
     {"number": "A40","title": "Donburi de Salmão Defumado com Molho", "price": SPECIALBOX, "image": "resources/img/special/A40.png"},
     {"number": "A41","title": "Donburi de Gambas Panadas com Molho", "price": SPECIALBOX, "image": "resources/img/special/A41.png"},
     {"number": "A42","title": "Donburi de Frango Panado com Molho", "price": SPECIALBOX, "image": "resources/img/special/a42.png"},
@@ -27,11 +28,25 @@ menu_items = [
     {"number": "N81","title": "Sushi de Rabanete Japonês e Delícias do Mar", "price": VIPBOX, "image": "resources/img/special/n81.png"},
     {"number": "N82","title": "Sushi de Queijo Creme e Frutas", "price": VIPBOX, "image": "resources/img/special/n82.png"},
     {"number": "N83","title": "Sashimi de Salmão e Maki de Salmão", "price": VIPBOX, "image": "resources/img/special/n83.png"},
-    {"number": "N84","title": "Sashimi de Salmão e Califórnia com Ovas", "price": VIPBOX, "image": "resources/img/special/n84.png"}
+    {"number": "N84","title": "Sashimi de Salmão e Califórnia com Ovas", "price": VIPBOX, "image": "resources/img/special/n84.png"},
+    {"number": "N85","title": "Dragão + Califórnia Frito", "price": VIPBOX, "image": "resources/img/special/N85.jpg"},
+    {"number": "N86","title": "Gunkan c/Ovas + Sushi Misto Salmão", "price": VIPBOX, "image": "resources/img/special/N86.jpg"},
+    {"number": "N87","title": "Maki Frito Picante + Sushi de Gambas Panadas", "price": VIPBOX, "image": "resources/img/special/N87.jpg"},
+    {"number": "N88","title": "Califórnia Frito c/Molho de Frutas + Califórnia de Salmão Defumado", "price": VIPBOX, "image": "resources/img/special/N88.jpg"},
+    {"number": "N89","title": "Sushi de Morangos + Delícias c/Frutas", "price": VIPBOX, "image": "resources/img/special/N89.jpg"}
+    
 
 ]
 
-file_path = "resources/js/special.json"
+# Define directory and file paths
+directory = "../js"
+file_path = os.path.join(directory, "special.json")
+
+# Create directory if it doesn't exist
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+
 
 # Write menu items to JSON file
 with open(file_path, 'w') as f:

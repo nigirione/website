@@ -1,8 +1,9 @@
 import json
+import os
 
 #PRICES
 
-NORMALBOX = "7.50€"
+NORMALBOX = "8.00€"
 DUCK = "9.95€"
 
 
@@ -26,7 +27,15 @@ menu_items = [
   
 ]
 
-file_path = "NIGIRIONE/resources/js/kitchen.json"
+
+# Define directory and file paths
+directory = "../js"
+file_path = os.path.join(directory, "kitchen.json")
+
+# Create directory if it doesn't exist
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
 
 # Write menu items to JSON file
 with open(file_path, 'w') as f:
