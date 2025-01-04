@@ -43,7 +43,7 @@ menu_items = [
     {"number": "A31" ,"title": "Califórnia Maki Frito", "price": NORMALBOX, "image": "resources/img/sushi/a31.png"},
     {"number": "A32" ,"title": "Temaki", "price": NORMALBOX, "image": "resources/img/sushi/a32.png"},
     {"number": "A33" ,"title": "Queijo Creme", "price": NORMALBOX, "image": "resources/img/sushi/a33.png"},
-    {"number": "A33" ,"title": "Temaki Frito c/ Molho", "price": NORMALBOX, "image": "resources/img/sushi/temakis_frito.jpg"}
+    {"number": "A34" ,"title": "Temaki Frito c/ Molho", "price": NORMALBOX, "image": "resources/img/sushi/temakis_frito.jpg"}
 ]
 
 
