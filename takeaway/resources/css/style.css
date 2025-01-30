@@ -60,6 +60,17 @@ body {
   color: #f9f8f8;
   margin: 0; 
   text-align: right; 
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.phone-number i {
+  margin-right: 10px;
+  color: white; 
+}
+
+.phone-number span {
+  display: inline-block;
 }
 
 
@@ -252,6 +263,19 @@ footer p{
   
   .time:last-child {
     margin-bottom: 30px;
+  }
+
+  .phone-number {
+    color: #f9f8f8;
+    margin: 0; 
+    text-align: right; 
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .phone-number i {
+    margin-right: 5px;
+    color: white; 
   }
 
 }
