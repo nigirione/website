@@ -598,9 +598,9 @@ footer p{
     font-size: 1.5em;
   }
 
-  .menu-item {
-    width: 30%; /* Display items in a single column on small screens */
-  }
+  /* .menu-item {
+    width: 30%; /* Display items in a single column on small screens 
+  } */
   
   .strong {
     font-size: 1.5em;
