@@ -430,7 +430,7 @@ body {
 }
 
 .combi-item img{
-  width: 100px;
+  width: 120px;
   height: auto;
 }
 
@@ -759,11 +759,6 @@ footer p{
     margin-left:10px;
     margin-right: 10px;
 
-  }
-  .dishes-item img{
-    align-self: center;
-    width: 70px;
-    height: 70px;
   }
 
   .dishes_special-item{
