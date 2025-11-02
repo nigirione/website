@@ -14,6 +14,10 @@ if not os.path.exists(directory):
 # Define menu items
 
 menu_items = [
+  {"number": "92","title": "Carpaccio de Salmão","pieces": "5 Peças" ,"image": "resources/img/92.jpg"},
+  {"number": "93","title": "Carpaccio Maracujá de Salmão","pieces": "5 Peças" ,"image": "resources/img/93.jpg"},
+  {"number": "230","title": "Califórnia Gambas Panadas BBQ","pieces": "4 Peças" ,"image": "resources/img/230.jpg"},
+  {"number": "233","title": "Califórnia Frango Panadas BBQ","pieces": "4 Peças" ,"image": "resources/img/233.jpg"},
   {"number": "N7","title": "Nigiri Tofu","pieces": "2 Peças" ,"image": "resources/img/N7.jpg"},
   {"number": "N13","title": "Tofu c/ Frutas","pieces": "2 Peças" ,"image": "resources/img/N13.jpg"},
   {"number": "N23","title": "Queijo c/ Frutas","pieces": "2 Peças" ,"image": "resources/img/N23.jpg"},
