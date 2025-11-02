@@ -416,6 +416,24 @@ body {
   height: auto;
 }
 
+.nigiri-item {
+  text-align: center;
+}
+
+.nigiri-item img{
+  width: 100px;
+  height: auto;
+}
+
+.combi-item{
+  text-align: center;
+}
+
+.combi-item img{
+  width: 100px;
+  height: auto;
+}
+
 .centered-content {
   text-align: center;
   margin-top: 70px;
@@ -583,6 +601,7 @@ footer p{
   .menu-item {
     width: 30%; /* Display items in a single column on small screens */
   }
+  
   .strong {
     font-size: 1.5em;
     margin-bottom: 10px;
