@@ -40,7 +40,7 @@ function fetchAndDisplayMenu(jsonFile, menuDivId, menuDivClass) {
               <h6>${item.title}</h6>
             `;
           }
-        }else if (menuDivId === 'varied' || menuDivId === 'spicy' ) {
+        }else if (menuDivId === 'varied' || menuDivId === 'spicy' || menuDivId === 'new' ) {
           if (item.number === "B5" ) {
             menuItem.innerHTML = `
               <img src="${item.image}" alt="${item.title}">
@@ -58,7 +58,7 @@ function fetchAndDisplayMenu(jsonFile, menuDivId, menuDivClass) {
               <p>${item.pieces}</p>
             `;
           }
-        }else if (menuDivId === 'fried' ) {
+        }else if (menuDivId === 'fried') {
           // Check if item has 'pieces' component
           if (item.pieces) {
             menuItem.innerHTML = `
