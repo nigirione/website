@@ -3,13 +3,28 @@
     "number": "92",
     "title": "Carpaccio de Salm\u00e3o",
     "pieces": "5 Pe\u00e7as",
-    "image": "resources/img/92.jpg"
+    "image": "resources/img/92.jpg",
+    "obv": "Limitado a 2 pratos por mesa"
   },
   {
     "number": "93",
     "title": "Carpaccio Maracuj\u00e1 de Salm\u00e3o",
     "pieces": "5 Pe\u00e7as",
-    "image": "resources/img/93.jpg"
+    "image": "resources/img/93.jpg",
+    "obv": "Limitado a 2 pratos por mesa"
+  },
+  {
+    "number": "271",
+    "title": "Salm\u00e3o Burrata Carpaccio",
+    "pieces": "",
+    "image": "resources/img/271.jpg"
+  },
+  {
+    "number": "212",
+    "title": "Sashimi Salm\u00e3o Picante",
+    "pieces": "5 Pe\u00e7as",
+    "image": "resources/img/212.jpg",
+    "obv": "Limitado a 2 pratos por mesa"
   },
   {
     "number": "230",
@@ -79,8 +94,38 @@
   },
   {
     "number": "86",
-    "title": "Gukan de Salm\u00e3o Defumado c/ Molho",
+    "title": "Gunkan de Salm\u00e3o Defumado c/ Molho",
     "pieces": "2 Pe\u00e7as",
     "image": "resources/img/N86.jpg"
+  },
+  {
+    "number": "87",
+    "title": "Gunkan de Salm\u00e3o c/ Masago Preto",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/87.png"
+  },
+  {
+    "number": "227",
+    "title": "Calif\u00f3rnia de Salm\u00e3o c/ Masago Preto",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/227.jpg"
+  },
+  {
+    "number": "371",
+    "title": "Maki Frito c/ Morangos",
+    "pieces": "4 Pe\u00e7as",
+    "image": "resources/img/371.jpg"
+  },
+  {
+    "number": "0",
+    "title": "P\u00e3o Japon\u00eas",
+    "pieces": "1 Pe\u00e7a",
+    "image": "resources/img/0.jpg"
+  },
+  {
+    "number": "V8",
+    "title": "Salada Goma Wakami",
+    "pieces": "",
+    "image": "resources/img/V8.jpg"
   }
 ]
