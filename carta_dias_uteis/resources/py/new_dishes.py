@@ -22,7 +22,7 @@ menu_items = [
   {"number": "82","title": "Califórnia Frito c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/82.jpg"},
   {"number": "84","title": "Califórnia de Manga c/ Molho de Frutas","pieces": "4 Peças" ,"image": "resources/img/84.jpg"},
   {"number": "0","title": "Pão Japonês","pieces": "1 Peça" ,"image": "resources/img/0.jpg"},
-  {"number": "V8","title": "Salada Goma Wakami","pieces": "", "image": "resources/img/V8.jpg"},
+  {"number": "V8","title": "Salada Goma Wakami", "image": "resources/img/V8.jpg"},
 ]
 
 # Write menu items to JSON file
