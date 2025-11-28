@@ -16,7 +16,10 @@ if not os.path.exists(directory):
 menu_items = [
   {"number": "92","title": "Carpaccio de Salmão","pieces": "5 Peças" ,"image": "resources/img/92.jpg", "obv": "Limitado a 2 pratos por mesa"},
   {"number": "93","title": "Carpaccio Maracujá de Salmão","pieces": "5 Peças" ,"image": "resources/img/93.jpg", "obv": "Limitado a 2 pratos por mesa"},
-  {"number": "271","title": "Salmão Burrata Carpaccio","pieces": "","image": "resources/img/271.jpg"},
+  {"number": "271","title": "Salmão Burrata Carpaccio","pieces": "","image": "resources/img/271.png"},
+  {"number": "271","title": "Salmão Burrata Carpaccio","pieces": "","image": "resources/img/3711.png"},
+  {"number": "271","title": "Salmão Burrata Carpaccio","pieces": "","image": "resources/img/37111.png"},
+  {"number": "271","title": "Salmão Burrata Carpaccio","pieces": "","image": "resources/img/1818.jpg"},
   {"number": "212","title": "Sashimi Salmão Tostado BBQ Picante","pieces": "5 Peças","image": "resources/img/212.jpg", "obv": "Limitado a 2 pratos por mesa"},
   {"number": "230","title": "Califórnia Gambas Panadas BBQ","pieces": "4 Peças" ,"image": "resources/img/230.jpg"},
   {"number": "233","title": "Califórnia Frango Panadas BBQ","pieces": "4 Peças" ,"image": "resources/img/233.jpg"},
