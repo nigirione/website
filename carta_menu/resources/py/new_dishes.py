@@ -32,7 +32,9 @@ menu_items = [
   {"number": "86","title": "Gunkan de Salmão Defumado c/ Molho","pieces": "2 Peças" ,"image": "resources/img/N86.jpg"},
   {"number": "87","title": "Gunkan de Salmão c/ Masago Preto","pieces": "2 Peças" ,"image": "resources/img/87.png"},
   {"number": "227","title": "Califórnia de Salmão c/ Masago Preto","pieces": "2 Peças" ,"image": "resources/img/227.jpg"},
-  {"number": "371","title": "Maki Frito c/ Morangos","pieces": "4 Peças" ,"image": "resources/img/371.jpg"},
+  {"number": "371","title": "Maki Frito c/ Morangos","pieces": "4 Peças" ,"image": "resources/img/371.png"},
+  {"number": "375","title": "Gambas Cozidas c/ Picante","pieces": "2 Peças" ,"image": "resources/img/375.png"},
+  {"number": "376","title": "Salmão c/ Molho Sésamo","pieces": "2 Peças" ,"image": "resources/img/376.png"},
   {"number": "V8","title": "Salada Goma Wakami","pieces": "", "image": "resources/img/V8.jpg"},
 ]
 

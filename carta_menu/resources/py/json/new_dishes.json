@@ -114,7 +114,19 @@
     "number": "371",
     "title": "Maki Frito c/ Morangos",
     "pieces": "4 Pe\u00e7as",
-    "image": "resources/img/371.jpg"
+    "image": "resources/img/371.png"
+  },
+  {
+    "number": "375",
+    "title": "Gambas Cozidas c/ Picante",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/375.png"
+  },
+  {
+    "number": "376",
+    "title": "Salm\u00e3o c/ Molho S\u00e9samo",
+    "pieces": "2 Pe\u00e7as",
+    "image": "resources/img/376.png"
   },
   {
     "number": "V8",
