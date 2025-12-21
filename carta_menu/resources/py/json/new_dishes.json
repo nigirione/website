@@ -14,10 +14,17 @@
     "obv": "Limitado a 2 pratos por mesa"
   },
   {
+    "number": "94",
+    "title": "Carpaccio de Salm\u00e3o, Atum e Robalo",
+    "pieces": "6 Pe\u00e7as",
+    "image": "resources/img/94.png",
+    "obv": "Limitado a 2 pratos por mesa"
+  },
+  {
     "number": "271",
-    "title": "Salm\u00e3o Burrata Carpaccio",
+    "title": "Tartare de Salm\u00e3o",
     "pieces": "",
-    "image": "resources/img/2711.png"
+    "image": "resources/img/271_new.png"
   },
   {
     "number": "212",
