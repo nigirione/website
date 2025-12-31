@@ -3,7 +3,7 @@ import os
 
 #PRICES
 
-NORMALBOX = "8.00€"
+NORMALBOX = "8.30€"
 BANANA = "4.80€"
 PUMKIM = "3.90€"
 

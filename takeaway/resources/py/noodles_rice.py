@@ -3,8 +3,8 @@ import json
 import os
 #PRICES
 
-NORMALBOX = "8.00€"
-SPECIALBOX = "8.50€"
+NORMALBOX = "8.30€"
+SPECIALBOX = "8.80€"
 RICE = "3.50€"
 
 

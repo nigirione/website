@@ -2,10 +2,10 @@ import json
 import os
 #PRICES
 
-NORMALBOX = "8.00€"
+NORMALBOX = "8.30€"
 SOUP = "2.50€"
 SIMPLESALAD = "2.00€"
-SALAD = "3.00€"
+SALAD = "3.30€"
 FRENCHFRIES = "2.50€"
 
 

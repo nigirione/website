@@ -3,8 +3,8 @@ import os
 
 #PRICES
 
-SPECIALBOX = "8.50€"
-VIPBOX = "8.80€"
+SPECIALBOX = "8.80€"
+VIPBOX = "9.30€"
 
 
 
